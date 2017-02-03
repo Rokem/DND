@@ -1,2 +1,2 @@
-# Tabletop-Figurines
-Images for Tabletop Simulator
+# Tabletop_Figurines
+Images for use in Tabletop Simulator.
