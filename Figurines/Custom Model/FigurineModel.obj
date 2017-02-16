@@ -1,5 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'TabletopFigurine.blend'
 # www.blender.org
+# Created by Rokem
 mtllib FigurineModel.mtl
 o Plane_Plane.002
 v -0.462957 1.283297 -0.000006
