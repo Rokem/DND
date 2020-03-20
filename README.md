@@ -1,2 +1,2 @@
 # DND
-Images for use in Tabletop Simulator.
+Images for personal use in Tabletop Simulator.
